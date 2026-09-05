@@ -1,0 +1,18 @@
+{
+  "name": "roblox-ui-asset-organizer",
+  "displayName": "UI Asset Organizer",
+  "description": "A Roblox Studio plugin that automatically tags and organizes UI elements by type and hierarchy depth.",
+  "version": "1.0.0",
+  "author": "Roblox Developer",
+  "homepage": "https://github.com/roblox-ui-asset-organizer",
+  "license": "MIT",
+  "icon": "rbxassetid://4458901886",
+  "main": "src/Plugin.lua",
+  "dependencies": [],
+  "tags": [
+    "ui",
+    "organizer",
+    "tags",
+    "roblox-studio"
+  ]
+}
